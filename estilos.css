@@ -1,0 +1,58 @@
+
+.page-header{
+    font-family: cursive;
+}
+
+.page-header h1{
+    text-align: center;
+    font-family: serif;
+}
+
+.container-fluid{
+    font-family: cursive;
+}
+
+.tabla-conte{
+    font-family:cursive;
+    text-align: left;
+    font-size: 17px;
+}
+
+h2 {
+    text-align: center;
+    font-family: serif;
+}
+
+h3{
+    text-align: left;
+    font-family: serif;
+}
+
+.conte-texto{
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.col-sm-12{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.container{
+    font-family:cursive;
+    text-align: left;
+    font-size: 17px;
+}
+
+.pie{
+    height: 40px;
+    color: #485868;
+    margin-top: 10px;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 17px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 10px;
+}
